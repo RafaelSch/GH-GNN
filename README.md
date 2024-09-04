@@ -16,7 +16,7 @@ Clone the repository and create a conda environment with all dependencies instal
 ```
 git clone https://github.com/edgarsmdn/GH-GNN.git
 cd GH-GNN
-conda env create -f enviornment.yml
+conda env create -f environment.yml
 ```
 
 ## If you use GH-GNN please cite the original publication as:
